@@ -82,7 +82,7 @@ https://app.ticketmaster.com/discovery/v2/events.json?size=1&city=Manchester&api
 > 💡 **팁**: 여러 파라미터를 조합할 때는 `&`로만 이어 붙이면 됩니다.
 > 예: `...?size=50&keyword=Oasis&city=Manchester&apikey={apikey}`
 
-
+</br>
 
 ## ✅ 다음 단계로 이동하기
 

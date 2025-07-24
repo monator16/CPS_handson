@@ -42,9 +42,5 @@
 ---
 
 
-## 👉 다음 단계로 이동하기
-
-**Step 5: Copilot Studio 에이전트 초기 구축**  ![여기](https://github.com/ChangJu-Ahn/Copilot-Studio-Hands-on/blob/main/%EC%8B%9C%EC%8A%A4%ED%85%9C%20%EC%97%B0%EB%8F%99%20%EC%97%90%EC%9D%B4%EC%A0%84%ED%8A%B8/Step%205%3A%20Copilot%20Studio%20%EC%97%90%EC%9D%B4%EC%A0%84%ED%8A%B8%20%EC%B4%88%EA%B8%B0%20%EA%B5%AC%EC%B6%95.md)
-
 
 

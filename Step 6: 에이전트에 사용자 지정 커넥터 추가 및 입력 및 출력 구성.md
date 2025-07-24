@@ -47,11 +47,14 @@
 
 
 * **Start Date/Time(시작 날짜/시간)**: “이벤트가 발생할 시작 날짜입니다. 예: 5월 1일을 지정하면 5월 1일 이후의 이벤트를 찾습니다. 제공되지 않으면 비워 둡니다.”
-  ![Start Date/Time 설명 예시](https://github.com/user-attachments/assets/0f706dd2-b4a0-4ccb-8ab9-70c90f5130d8)
+  ![Start Date/Time 설명 예시](https://github.com/user-attachments/assets/0e4b2f13-ca45-4cb0-adcf-3109314c1b06)
 
 
-2. 각 입력 매개변수의 **‘사용자에게 프롬프트 표시(Should prompt user)’** 옵션은 기본으로 체크 상태입니다.
 
-   * 이후 사용자 경험 개선을 위해 설정을 변경할 수 있지만, 현재 실습 단계에서는 체크 상태를 유지합니다.
+
+2. 각 입력 매개변수의 **‘사용자에게 프롬프트헤야 합니다(Should prompt user)’** 옵션은 체크하지 않은 상태로 둡니다.
+
+   * 사용자 경험 개선을 위해 현재 실습 단계에서는 체크하지 않은 상태로 두었지만, 이후 설정을 변경할 수 있습니다.
+
 
 

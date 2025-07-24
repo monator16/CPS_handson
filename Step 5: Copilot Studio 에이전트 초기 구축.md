@@ -31,7 +31,8 @@
 
 4. 생성형 오케스트레이션
    * 에이전트가 언어 모델을 사용하여 사용자 요청을 해석하고, 정의된 도구를 지능적으로 조작할 수 있도록 오케스트레이션을 **사용**으로 설정합니다.
-![생성형 오케스트레이션](https://github.com/user-attachments/assets/d46bb951-810b-499c-85fc-55b708b86271)
+![생성형 오케스트레이션](https://github.com/user-attachments/assets/3ac8edf8-0d6e-48d6-bd8e-a0410f00a611)
+
 
 
 

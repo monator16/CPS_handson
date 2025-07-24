@@ -65,7 +65,7 @@ https://app.ticketmaster.com/discovery/v2/events.json?size=1&city=Manchester&api
 
 
 
-## 📌 자주 쓰는 Query Parameter 요약
+### 📌 자주 쓰는 Query Parameter 요약
 
 | Parameter            | 설명                                 | 예시 값                    | 예시 URL 추가분                            |
 | -------------------- | ---------------------------------- | ----------------------- | ------------------------------------- |

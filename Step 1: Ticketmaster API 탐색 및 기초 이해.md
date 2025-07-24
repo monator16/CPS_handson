@@ -80,11 +80,7 @@ https://app.ticketmaster.com/discovery/v2/events.json?size=1&city=Manchester&api
 > 💡 **팁**: 여러 파라미터를 조합할 때는 `&`로만 이어 붙이면 됩니다.
 > 예: `...?size=50&keyword=Oasis&city=Manchester&apikey={apikey}`
 
----
-## ✅ 다음 단계로 이동하기
 
-Step 1을 마무리하셨다면, 다음 문서로 넘어가세요!
-👉 [Step 2: 사용자 지정 커넥터 초기 설정](https://github.com/ChangJu-Ahn/Copilot-Studio-Hands-on/blob/main/%EC%8B%9C%EC%8A%A4%ED%85%9C%20%EC%97%B0%EB%8F%99%20%EC%97%90%EC%9D%B4%EC%A0%84%ED%8A%B8/Step%202%3A%20%EC%82%AC%EC%9A%A9%EC%9E%90%20%EC%A7%80%EC%A0%95%20%EC%BB%A4%EB%84%A5%ED%84%B0%20%EC%B4%88%EA%B8%B0%20%EC%84%A4%EC%A0%95.md)
 
 ---
 

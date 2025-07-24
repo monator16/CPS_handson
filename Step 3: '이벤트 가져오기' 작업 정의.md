@@ -88,10 +88,4 @@
 
 ---
 
-## 👉 다음 단계로 이동하기
-
-**Step 4: 사용자 지정 커넥터 테스트 및 보안 문제 해결**
-[여기](https://github.com/ChangJu-Ahn/Copilot-Studio-Hands-on/blob/main/%EC%8B%9C%EC%8A%A4%ED%85%9C%20%EC%97%B0%EB%8F%99%20%EC%97%90%EC%9D%B4%EC%A0%84%ED%8A%B8/Step%204%3A%20%EC%82%AC%EC%9A%A9%EC%9E%90%20%EC%A7%80%EC%A0%95%20%EC%BB%A4%EB%84%A5%ED%84%B0%20%ED%85%8C%EC%8A%A4%ED%8A%B8%20%EB%B0%8F%20%EB%B3%B4%EC%95%88%20%EB%AC%B8%EC%A0%9C%20%ED%95%B4%EA%B2%B0.md)를 클릭하세요.
-
----
 

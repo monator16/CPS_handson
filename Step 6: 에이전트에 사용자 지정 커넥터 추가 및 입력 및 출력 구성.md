@@ -2,7 +2,7 @@
 
 # Step 6 – 에이전트에 사용자 지정 커넥터 추가 및 입력/출력 구성
 
-> **목표:** Copilot Studio 에이전트에 **사용자 지정 커넥터**(Ticketmaster)를 도구(Tool)로 추가하고, **입력(Inputs)·출력(Outputs) 구성**을 설정합니다. (Step 1\~5와 톤/구성 통일)
+> **목표:** Copilot Studio 에이전트에 **사용자 지정 커넥터**(Ticketmaster)를 도구(Tool)로 추가하고, **입력(Inputs)·출력(Outputs) 구성**을 설정합니다.
 
 ---
 

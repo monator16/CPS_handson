@@ -27,9 +27,10 @@
 
 2. **설명(Description)** 영역에 에이전트가 이 도구로부터 받은 결과를 **어떻게 요약/표현할지**를 작성합니다.
 
-   * 예: “Ticketmaster에서 이벤트를 검색합니다. 사용 가능한 이벤트를 글머리 기호(불릿) 형식으로 요약합니다.”
+   * 예: “이벤트 내용을 불렛 포인트로 요약합니다. 요약하는 내용에는 이벤트의 이름, 날짜, 시간대, 티켓 링크를 포함합니다. ”
 
-![설명 작성 예시](https://github.com/user-attachments/assets/ca2d6cc8-2661-4930-bfa2-999e0492952d)
+![설명 작성 예시](https://github.com/user-attachments/assets/6955e4a2-a92f-411d-9faa-8792e5f4127a)
+
 
 ---
 

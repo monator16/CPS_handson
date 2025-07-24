@@ -59,9 +59,3 @@
 
 
 
-## 👉 다음 단계로 이동하기
-
-Step 2를 마쳤다면, 다음 문서 ![여기](https://github.com/ChangJu-Ahn/Copilot-Studio-Hands-on/blob/main/%EC%8B%9C%EC%8A%A4%ED%85%9C%20%EC%97%B0%EB%8F%99%20%EC%97%90%EC%9D%B4%EC%A0%84%ED%8A%B8/Step%203%3A%20'%EC%9D%B4%EB%B2%A4%ED%8A%B8%20%EA%B0%80%EC%A0%B8%EC%98%A4%EA%B8%B0'%20%EC%9E%91%EC%97%85%20%EC%A0%95%EC%9D%98.md)로 넘어가세요!  
-
----
-

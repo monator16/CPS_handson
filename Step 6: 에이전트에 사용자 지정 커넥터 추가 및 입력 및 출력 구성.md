@@ -46,8 +46,10 @@
 * **Keyword(키워드)**: “아티스트(또는 팀) 이름이 제공되면 포함해야 합니다. 제공되지 않으면 비워 둡니다.”
 
 
-* **Start Date/Time(시작 날짜/시간)**: “이벤트가 발생할 시작 날짜입니다. 예: 5월 1일을 지정하면 5월 1일 이후의 이벤트를 찾습니다. 제공되지 않으면 비워 둡니다.”
-  ![Start Date/Time 설명 예시](https://github.com/user-attachments/assets/0e4b2f13-ca45-4cb0-adcf-3109314c1b06)
+* **Start Date/Time(시작 날짜/시간)**: “이벤트가 발생할 시작 날짜입니다. 예를 들어 5월 1일을 지정하면 5월 1일 이후의 이벤트를 찾습니다. 제공되지 않으면 비워 둡니다. 날짜의 형식은 ISO 8601 형식 (예: YYYY-MM-DDTHH:MM:SSZ)입니다..”
+  ![Start Date/Time 설명 예시](https://github.com/user-attachments/assets/ca5bcc99-aaf3-4d76-8cbe-229f3f2d51ad)
+
+
 
 
 

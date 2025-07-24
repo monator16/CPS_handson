@@ -58,6 +58,13 @@
 2. 각 입력 매개변수의 **‘사용자에게 프롬프트헤야 합니다(Should prompt user)’** 옵션은 체크하지 않은 상태로 둡니다.
 
    * 사용자 경험 개선을 위해 현재 실습 단계에서는 체크하지 않은 상태로 두었지만, 이후 설정을 변경할 수 있습니다.
+  
+
+##  결과
+
+이제 에이전트 테스트에서 "7월에 Andrew Dice Clay 공연을 알려줘봐"라는 예시 프롬포트를 넣으면 아래와 같은 결과가 나옵니다!
+<img width="1175" height="1224" alt="image" src="https://github.com/user-attachments/assets/d34c3fd9-e667-491c-8c64-40c0a6b06055" />
+
 
 
 

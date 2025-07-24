@@ -13,6 +13,7 @@
 - (선택) 터미널 또는 Postman, curl 등 API 호출 도구
 
 </br>
+
 ## 1. 공식 문서로 API 개념 파악하기
 
 Ticketmaster Discovery v2 API에서 우리가 사용할 엔드포인트는 **Event Search**입니다.  
